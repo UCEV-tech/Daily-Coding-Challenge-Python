@@ -1,0 +1,6 @@
+#basic string method
+Str1 = "this is a string "
+str2 = " concatenation"
+print(Str1+str2)
+print(Str1*3)
+print(Str1[9:16])
